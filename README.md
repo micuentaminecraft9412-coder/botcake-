@@ -16,7 +16,7 @@ jugarse sin estar pendiente todo el tiempo.
 
 ## 📦 Dos versiones disponibles
 
-| Versión | Para quién es |
+| Versión | Para qué es |
 |---|---|
 | **Versión completa** | Ya trae todo instalado. Descomprime y arranca. |
 | **Versión sin dependencias** | Más liviana. Hay que correr un comando para instalar lo que falta (se explica en la guía). |
