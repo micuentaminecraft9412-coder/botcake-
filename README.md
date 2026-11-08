@@ -7,7 +7,7 @@ jugarse sin estar pendiente todo el tiempo.
 ## ✨ Qué hace
 
 - 🔑 Inicia sesión solo (login / registro, según lo que pida el servidor)
-- 🧭 Entra al modo de juego aunque el servidor tenga una sala de espera
+- 🧭 Entra al modo de juego aunque el servidor tenga un lobby
 - 🍗 Come y se cura solo, sin quedarse con hambre
 - 🛡️ Se defiende de mobs hostiles automáticamente
 - 📨 Responde a comandos por susurro (`/msg`)
